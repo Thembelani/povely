@@ -1,2 +1,2 @@
 # Povely
-Online ChatApp
+Messaging App
